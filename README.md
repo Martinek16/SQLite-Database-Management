@@ -5,10 +5,9 @@
 A simple Python project for managing an SQLite database, including database creation, table definition, and data insertion.
 
 
-
-### Prerequisites
-
-You need to have Python installed on your system. You can download Python from the official website: [Python Downloads](https://www.python.org/downloads/).
+### Requirements
+- Python
+- SQLite3
 
 ### Usage
 
